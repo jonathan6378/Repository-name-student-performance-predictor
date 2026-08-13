@@ -1,8 +1,8 @@
-# 🎓 Student Performance Predictor — Random Forest From Scratch
+#  Student Performance Predictor — Random Forest From Scratch
 
 A machine learning portfolio project that predicts a student's final exam score using a **Random Forest Regressor implemented from scratch**.
 
-## ⭐ What makes this project different?
+##  What makes this project different?
 
 The Random Forest algorithm is **not imported from scikit-learn**.
 
